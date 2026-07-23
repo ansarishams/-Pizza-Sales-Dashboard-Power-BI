@@ -87,5 +87,5 @@ This is a `.pbit` (Power BI Template) file, so it will ask for data on first ope
 
 ## 🙋‍♂️ Author
 
-Built by **[Your Name]** as a data analytics/Power BI portfolio project.
+Built by **SHAMSUL HODA** as a data analytics/Power BI portfolio project.
 Feel free to ⭐ this repo if you found it useful!
