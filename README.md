@@ -9,7 +9,7 @@ An interactive Power BI dashboard built to analyze pizza sales performance — c
 > Add your screenshots here (export as PNG from Power BI and drop them in an `images/` folder):
 
 ```
-![Home Page](images/home_page.png)
+![Home Page](https://github.com/ansarishams/-Pizza-Sales-Dashboard-Power-BI/blob/main/Pizza%20Sales%20Dashboard%201.jpg))
 ![Best-Worst Seller Page](images/best_worst_seller.png)
 ```
 
